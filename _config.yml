@@ -32,8 +32,8 @@ url: 'https://guiimf.github.io'
 github:
   username: guiimf             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
