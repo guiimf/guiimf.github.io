@@ -1,8 +1,11 @@
 ---
+title: Sobre
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+Me chamo Guilherme, tenho 29 anos, sou casado e trbalho com tecnologia em São Paulo. Criei o blog para documentar os meus estudos e compartilhar algumas coisas que achei interessante e que podem ajudar outras pessoas.
+
+> Estou disponivel para conversar sobre alguns assuntos do meu interesse como, tecnologia, conteineres e sistemas operacionais.
 {: .prompt-tip }
